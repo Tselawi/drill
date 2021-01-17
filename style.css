@@ -36,8 +36,8 @@ main{
     background-color: white;
     color: black;
     transition: .5s;
-    font-size: 1.5rem;
-    padding: 1em;
+    transform: scale(1.2,1.2);
+    
 }
 #b3:hover{
     background-color: white;
